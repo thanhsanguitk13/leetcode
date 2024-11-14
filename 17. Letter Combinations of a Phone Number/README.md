@@ -38,7 +38,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>- &lt;= nums.length &lt;= 4</code></li>
+	<li><code>0 &lt;= nums.length &lt;= 4</code></li>
     <li><code>digits[i]</code> is a digit in the range <code>['2','9']. </code>
 </ul>
 </div>
